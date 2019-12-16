@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.464,=C:\Users\oea3608\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,=C:\Users\oea3608\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.11.18 10:38:01.565,=C:\Users\oea3608\Documents\RAD Studio\Projects\Project1.res</Transaction>
+    <Transaction>2019.11.18 10:38:01.581,=C:\Users\oea3608\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.11.18 10:38:42.164,C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Unit1.dfm=C:\Users\oea3608\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019.11.18 10:38:42.164,C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Unit1.cpp=C:\Users\oea3608\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.11.18 10:38:42.164,C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Unit1.h=C:\Users\oea3608\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019.11.18 10:42:18.782,C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Oseledko.cpp=C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Unit1.cpp</Transaction>
+    <Transaction>2019.11.18 10:42:18.782,C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Oseledko.h=C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Unit1.h</Transaction>
+    <Transaction>2019.11.18 10:42:18.782,C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Oseledko.dfm=C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Unit1.dfm</Transaction>
+    <Transaction>2019.11.18 10:51:14.136,C:\Users\oea3608\Desktop\ТРПО\Лабораторная работа 6\Project1.cbproj=C:\Users\oea3608\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
